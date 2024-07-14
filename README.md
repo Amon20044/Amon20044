@@ -1,17 +1,10 @@
 <h1 align="center">Hi 👋, I'm Amon Sharma</h1>
 <h3 align="center">A passionate Explorer</h3>
 
-- 🔭 I’m currently working on [Transformer Unnamed](git@github.com:Amon20044/RoboRumble-UE_transformers.git)
-
-- 🌱 I’m currently learning **C++ for Game dev with Unreal Framework and Computer Networkings**
-
-- 👯 I’m looking to collaborate on [Transformer Unnamed](git@github.com:Amon20044/RoboRumble-UE_transformers.git)
 
 - 🤝 I’m looking for help with **Technology**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amon20044?tab=repositories](https://github.com/Amon20044?tab=repositories)
-
-- 💬 Ask me about **Game Development, Video Editing , Designing, Competetive Programming, Logic Building**
 
 - 📫 How to reach me **amonkhushi1975@gmail.com**
 
